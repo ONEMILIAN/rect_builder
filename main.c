@@ -44,6 +44,6 @@ void build_rect() {
 int main() {
 	printf( "Welcome to rect-builder!!\n\n" ) ;
 	build_rect() ;
-	printf( "%d Blocks used" , counter ) ;
+	printf( "%d Blocks used\n" , counter ) ;
 	return 0 ;
 }
